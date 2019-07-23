@@ -33,8 +33,7 @@ public class Plane{
 
  public int displayCapacity(){
 
-     int rdx = 5;
-     rdx = 6;
+ 
      return this.capacity;
 
 
